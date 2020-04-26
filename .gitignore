@@ -1,0 +1,7 @@
+data/glove/
+data/processed_dataset/
+reuse_predictor/checkpoints/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
