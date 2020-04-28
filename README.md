@@ -4,10 +4,10 @@ This repo provides data and subsequent model for the paper "Dataset Reuse: Trans
 
 This includes:
 
-* data for all github repos containing datasets (download_github_dataset.sh);
-    * this contains a python pickle file. It is a list of each repo. A repo is represented as a hash that contains metadata about each repo containing a dataset. To unpickle use ``obj = pickle.load(file, encoding='latin1')''  
-* data used for training models (download_processed_datasets.sh);
-    * code to work with this data is in the model directory
+* Data for all github repos containing datasets (download_github_dataset.sh).
+    * This contains a python pickle file. It is a list of each repo. A repo is represented as a hash that contains metadata about each repo containing a dataset. To unpickle use `obj = pickle.load(file, encoding='latin1')`  
+* Data used for training models (download_processed_datasets.sh).
+    * Code to work with this data is in the source code directory.
 * The source code for model training (under reuse_predictor). Our model uses pytorch.
 
 For more information contact: [Laura Koesten](https://laurakoesten.github.io)
