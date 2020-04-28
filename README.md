@@ -9,6 +9,7 @@ This includes:
         ```
         file = open("dataset.pickle", 'rb')
         obj = pickle.load(file, encoding='latin1')
+        obj[0] # gets the first repo in the list
         ``` 
 * Data used for training models (download_processed_datasets.sh).
     * Code to work with this data is in the source code directory.
