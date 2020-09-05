@@ -2,6 +2,8 @@
 
 This repo provides data and subsequent model for the paper "Dataset Reuse: Translating Principles to Practice". 
 
+Koesten, Laura and Vougiouklis, Pavlos and Simperl, Elena and Groth, Paul, Dataset Reuse: Translating Principles to Practice. Available at SSRN: https://ssrn.com/abstract=3589836 or http://dx.doi.org/10.2139/ssrn.3589836
+
 This includes:
 
 * Data for all github repos containing datasets (download_github_dataset.sh).
