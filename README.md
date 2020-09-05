@@ -15,4 +15,8 @@ This includes:
     * Code to work with this data is in the source code directory.
 * The source code for model training (under reuse_predictor). Our model uses pytorch.
 
+The shell scripts above are designed to make the data easy to access with this repo. The data can also be downloaded from Zenodo:
+
+Koesten, Laura, Vougiouklis, Pavolos, Groth, Paul, & Simperl, Elena. (2020). Dataset Reuse Indicators Datasets (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4015955
+
 For more information contact: [Laura Koesten](https://laurakoesten.github.io)
