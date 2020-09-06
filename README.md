@@ -19,6 +19,6 @@ This includes:
 
 The shell scripts above are designed to make the data easy to access with this repo. The data can also be downloaded from Zenodo:
 
-Koesten, Laura, Vougiouklis, Pavlos, Groth, Paul, & Simperl, Elena. (2020). Dataset Reuse Indicators Datasets (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4015955
+Koesten, Laura, Vougiouklis, Pavlos, Groth, Paul, & Simperl, Elena. (2020). Dataset Reuse Indicators Datasets (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4015954
 
 For more information contact: [Laura Koesten](https://laurakoesten.github.io)
